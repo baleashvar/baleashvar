@@ -1,7 +1,11 @@
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1835801504665732739/281EDC7B33B4F9D0C3ADCC18CA8167959328FCEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
+
 <h1 align="center">Hi 👋, I'm @baleashvar</h1>
 <h3 align="center">A data science enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://mj-gallery.com/9449326a-bcc9-4180-bbbf-041cd21e6a30/grid_0.png">
 
-<p align="left"> <img src="https://search.brave.com/images?q=hacker+neon&img=29" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 
 - 🔭 I’m currently working on [Super Resolution](https://github.com/baleashvar/SRGAN)
 
