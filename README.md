@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @baleashvar</h1>
 <h3 align="center">A data science enthusiast</h3>
 
-<p align="left"> <img src="https://www.midjourney.com/app/jobs/9449326a-bcc9-4180-bbbf-041cd21e6a30/" /> </p>
+<p align="left"> <img src="https://search.brave.com/images?q=hacker+neon&img=29" /> </p>
 
 - 🔭 I’m currently working on [Super Resolution](https://github.com/baleashvar/SRGAN)
 
