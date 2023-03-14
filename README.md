@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 
-- 🔭 I’m currently working on [Super Resolution](https://github.com/baleashvar/SRGAN)
+- 🔭 I’m Have Done Project on [Super Resolution](https://github.com/baleashvar/SRGAN)
 
-- 🌱 I’m currently learning **Tensorflow,Erwin software,Datawaehouseing,Data modeling,Java**
+- 🌱 I’m currently learning **Tensorflow,Erwin software,C#,Datawaehouseing,Data modeling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
-- 💬 Ask me about **Python,C,bash,Mysql,jupyter notebook**
+- 💬 Ask me about **C#,Python,C,bash,Mysql,jupyter notebook**
 
 - 📫 How to reach me **baleashomega@gmail.com**
 
