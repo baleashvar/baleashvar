@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 <P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
 
-- 🔭 I’m Have Done Project on [Super Resolution](https://github.com/baleashvar/SRGAN)
+- 🔭 I’m Have Done Project on [Super Resolution]([https://baleashvar.netlify.app/inner-page.html])
 
 - 🌱 I’m currently learning **Tensorflow,Erwin software,C#,Datawaehouseing,Data modeling**
 
