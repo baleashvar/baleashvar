@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
-<P>MY PERSONAL PORTFOLIO:<a href="https://baleashvar.netlify.app/">Baleashvar.netlify.app</a></p>
+<P><a href="https://baleashvar.netlify.app/">My Personal Portfolio</a></p>
 
 - 🔭 I’m Have Done Project on [Super Resolution](https://github.com/baleashvar/SRGAN)
 
