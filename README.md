@@ -1,7 +1,7 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1835801504665732739/281EDC7B33B4F9D0C3ADCC18CA8167959328FCEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
-<h3 align="center">A data science enthusiast</h3>
+<h3 align="center">Professional Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mj-gallery.com/9449326a-bcc9-4180-bbbf-041cd21e6a30/grid_0.png">
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m Have Done Project on [Super Resolution](https://baleashvar.netlify.app/inner-page.html)
 
-- 🌱 I’m currently learning **Tensorflow,Erwin software,C#,Datawaehouseing,Data modeling**
+- 🌱 I’m currently learning **Tensorflow,C#,Python,JavaScript,WebUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
