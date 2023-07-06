@@ -10,7 +10,7 @@
 
 - 🔭 I’m Have Done Project on [Super Resolution](https://baleashvar.netlify.app/inner-page.html)
 
-- 🌱 I’m currently learning **Tensorflow,C#,Python,JavaScript,WebUI**
+- 🌱 I’m currently learning  **MERN stack also learnt Tensorflow,C#,Python,JavaScript,WebUI(HTML,CSS,JS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
