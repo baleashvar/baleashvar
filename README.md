@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
-- 💬 Ask me about **C#,Python,C,bash,Mysql,jupyter notebook**
+- 💬 Ask me about **Python,C#,bash,Mysql,HTML,CSS,JS,jupyter notebook,react,node**
 
 - 📫 How to reach me **baleashomega@gmail.com**
 
