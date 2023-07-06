@@ -1,4 +1,4 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1835801504665732739/281EDC7B33B4F9D0C3ADCC18CA8167959328FCEC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2049749821055412478/68886D98FA02A65B59EAD3495451727D699A84A4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
 <h3 align="center">Professional Web Developer</h3>
