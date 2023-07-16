@@ -14,11 +14,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
-- 💬 Ask me about **Python,react,node,HTML,CSS,JS,C#,bash,Mysql,jupyter notebook**
+- 💬 Ask me about **Python,react,node,HTML,CSS,JS,C#,bash,Mysql**
 
 - 📫 How to reach me **baleashomega@gmail.com**
 
 - ⚡ Fun fact **I play basketball and chess**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
