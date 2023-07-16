@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
 <h3 align="center">Professional Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mj-gallery.com/9449326a-bcc9-4180-bbbf-041cd21e6a30/grid_0.png">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
