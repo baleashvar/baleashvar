@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **baleashomega@gmail.com**
 
-- ⚡ Fun fact **I play basketball**
+- ⚡ Fun fact **I play basketball and chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
