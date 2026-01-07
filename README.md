@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 <P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
 
-- 👨‍💻 I Have build and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features new tools and updates.
+- 👨‍💻 I Have built and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features, new tools and updates.
 
 - 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/inner-page.html)
 
-- 🌱 I’m currently learning  **MERN stack also learnt Tensorflow,C#,Python,JavaScript,WebUI(HTML,CSS,JS)**
+- 🌱 I’m learning  **MERN stack also learnt Tensorflow,C#,Python,JavaScript,WebUI(HTML,CSS,JS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
