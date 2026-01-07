@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python,react,node,HTML,CSS,JS,C#,bash,Mysql**
 
-- 📫 How to reach me **baleashomega@gmail.com**
+- 📫 How to reach me **baleashvar@gmail.com**
 
 - ⚡ Fun fact **I play basketball and chess**
 
