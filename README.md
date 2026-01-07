@@ -10,6 +10,8 @@
 
 - 👨‍💻 I Have built and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features, new tools and updates.
 
+- ❄️ I am AWS Cloud Practitioner certified [Certificate]((https://cp.certmetrics.com/amazon/en/public/verify/credential))."CredentialID:5699481c96934d21870503ff80bac4aa"
+
 - 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/srgan)
 
 - 🌱 I’m learning  **MERN stack also learnt Tensorflow,C#,Python,JavaScript,WebUI(HTML,CSS,JS)**
