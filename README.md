@@ -10,7 +10,7 @@
 
 - 👨‍💻 I Have built and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features, new tools and updates.
 
-- 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/inner-page.html)
+- 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/srgan)
 
 - 🌱 I’m learning  **MERN stack also learnt Tensorflow,C#,Python,JavaScript,WebUI(HTML,CSS,JS)**
 
