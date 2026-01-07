@@ -1,12 +1,14 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2049749821055412478/68886D98FA02A65B59EAD3495451727D699A84A4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
-<h3 align="center">Professional Web Developer</h3>
+<h3 align="center">Professional python Developer</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 <P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
+
+- 👨‍💻 I Have build and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features new tools and updates.
 
 - 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/inner-page.html)
 
@@ -25,7 +27,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/baleashvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baleashvar k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/baleashomega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baleashvar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Baleashvar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baleashvar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/baleashomega?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="baleashvar k" height="30" width="40" /></a>
 <a href="https://twitter.com/ubiquitouscheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/ubiquitouscheer" height="30" width="40" /></a>
 <a href="https://medium.com/@baleashomega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https:/@baleashomega" height="30" width="40" /></a>
