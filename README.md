@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 <P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
 
-- I have deployed applications to enterprise production, follow OWASP and SOLID principled for development and deployemnt. Very proactive, become senior engineer in just 2 years which takes most people 5 years to get there.
+- 🍁 I have deployed applications to enterprise production, follow OWASP and SOLID principled for development and deployemnt. Very proactive, become senior engineer in just 2 years which takes most people 5 years to get there.
 
 - 👨‍💻 I Have built and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features, new tools and updates.
 
@@ -16,19 +16,19 @@
 
 - ❄️ I am AWS AI Practitioner certified [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential)."CredentialID:d2b8ecd3ad44469e8a467d625e986494"
   
-- Senior devops engineer at Brititsh Airways (baleashvar.kasiviswanathan@BA.com)
+- ✈️ Senior devops engineer at Brititsh Airways (baleashvar.kasiviswanathan@BA.com)
   
 - 🔭 I Have built Project on [Super Resolution](https://baleashvar.netlify.app/srgan) using generative adverserial networks(Deeplearning AI Research paper)
 
 - 🌱 I have learnt languages  **Python,Java,JavaScript,WebUI(HTML,CSS,JS)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
+- ⚡ All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
-- 💬 Ask me about **AWS, MSK, Terraform, Docker, Python, MERN, Bash, Mysql, Git, Github Actions, Java, react** 
+- 💬 Ask me about **AWS, MSK, Terraform, Docker, ECS Fargate, Python, MERN, Bash, Sql, Git, Github Actions, Java, react, Event Bridge,Datadog** 
 
 - 📫 How to reach me **baleashvar@gmail.com**
 
-- ⚡ Fun fact **I play basketball and chess**
+- 🏀 Fun fact **I play basketball and chess**
 
 
 <h3 align="left">Connect with me:</h3>
