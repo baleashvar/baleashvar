@@ -1,24 +1,30 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2049749821055412478/68886D98FA02A65B59EAD3495451727D699A84A4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
-<h3 align="center">Professional python Developer</h3>
+<h3 align="center">Senior Cloudops Engineer(AWS) at BA</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
 <P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
 
+- I have deployed applications to enterprise production, follow OWASP and SOLID principled for development and deployemnt. Very proactive, become senior engineer in just 2 years which takes most people 5 years to get there.
+
 - 👨‍💻 I Have built and deployed JSON developer tools at [JSONlab](https://jsonlab.xyz/) and still pushing features, new tools and updates.
 
 - ❄️ I am AWS Cloud Practitioner certified [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential)."CredentialID:5699481c96934d21870503ff80bac4aa"
 
-- 🔭 I Have Done Project on [Super Resolution](https://baleashvar.netlify.app/srgan)
+- ❄️ I am AWS AI Practitioner certified [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential)."CredentialID:d2b8ecd3ad44469e8a467d625e986494"
+  
+- Senior devops engineer at Brititsh Airways (baleashvar.kasiviswanathan@BA.com)
+  
+- 🔭 I Have built Project on [Super Resolution](https://baleashvar.netlify.app/srgan) using generative adverserial networks(Deeplearning AI Research paper)
 
-- 🌱 I’m have learnt languages  **Python,Java,JavaScript,WebUI(HTML,CSS,JS)**
+- 🌱 I have learnt languages  **Python,Java,JavaScript,WebUI(HTML,CSS,JS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baleashvar?tab=repositories](https://github.com/baleashvar?tab=repositories)
 
-- 💬 Ask me about **AWS, Tensorflow, Snowflake, Confluent Cloud, Python, MERN, Bash, Mysql, Git, Github Actions**
+- 💬 Ask me about **AWS, MSK, Terraform, Docker, Python, MERN, Bash, Mysql, Git, Github Actions, Java, react** 
 
 - 📫 How to reach me **baleashvar@gmail.com**
 
