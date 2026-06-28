@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baleashvar&label=Profile%20views&color=0e75b6&style=flat" alt="baleashvar" /> </p>
-<P>My Personal Portfolio : <a href="https://baleashvar.netlify.app/"> baleashvar's Website</a></p>
+<P>My Personal Portfolio : <a href="https://baleashvar.vercel.app/"> baleashvar's Website</a></p>
 
 - 🍁 I have deployed applications to enterprise production, follow OWASP and SOLID principles for development and deployment. Very proactive, become senior engineer in just 2 years which takes most people 5 years to get there.
 
