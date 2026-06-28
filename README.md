@@ -1,7 +1,7 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2049749821055412478/68886D98FA02A65B59EAD3495451727D699A84A4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
 <h1 align="center">Hi 👋, I'm @Baleashvar</h1>
-<h3 align="center">Senior Cloudops Engineer(AWS) at BA</h3>
+<h3 align="center">Cloudops Engineer(AWS) at BA</h3>
 
 
 
@@ -16,7 +16,7 @@
 
 - ❄️ I am AWS AI Practitioner certified [Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential)."CredentialID:d2b8ecd3ad44469e8a467d625e986494"
   
-- ✈️ Senior devops engineer at Brititsh Airways (baleashvar.kasiviswanathan@BA.com)
+- ✈️ devops engineer at Brititsh Airways (baleashvar.kasiviswanathan@BA.com)
   
 - 🔭 I Have built Project on [Super Resolution](https://baleashvar.netlify.app/srgan) using generative adverserial networks(Deeplearning AI Research paper)
 
